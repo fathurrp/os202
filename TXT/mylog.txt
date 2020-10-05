@@ -9,7 +9,7 @@ ZCZC W01 300 L21 Set up Debian via Virtual Machine :)))
 ZCZC W01 15 L99 asking friends how to set up debian, set tunnel, etc
 ZCZC W01 15 L03 GitHub related
 ZCZC W01 45 L99 solved ssh tunnel, continue assignment
-ZCZC W01 10 L12 Assignment #2 L
+ZCZC W01 10 L12 Assignment #2 
 ZCZC W01 10 L13 Assignment #3
 ZCZC W01 10 L14 Assignment #4
 ZCZC W01 10 L15 Assignment #5
@@ -18,3 +18,18 @@ ZCZC W01 10 L17 Assignment #7
 ZCZC W01 120 L19 Assignment #9
 ZCZC W01 20 L18 Assignment #8 Push w00.md
 ZCZC W01 20 L18 Assignment #8 Push w01.md
+ZCZC W02 100 L02 Zoom Related
+ZCZC W02 90 L01 Scele Related
+ZCZC W02 60 L09 Asking Yoga (Lecturer Assistant)
+ZCZC W02 90 L05 GSGS Related
+ZCZC W02 60 L01 Scele Related
+ZCZC W02 60 L00 General Log
+ZCZC W02 60 L23 Discuss with friends
+ZCZC W02 10 L11 Assignment #1
+ZCZC W02 10 L12 Assignment #2
+ZCZC W02 10 L13 Assignment #3
+ZCZC W02 10 L14 Assignment #4
+ZCZC W02 10 L15 Assignment #5
+ZCZC W02 10 L16 Assignment #6
+ZCZC W02 10 L17 Assignment #8
+ZCZC W02 10 L12 Assignment #9
