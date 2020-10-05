@@ -5,7 +5,12 @@
 
 # Ini GitHub Fathur Rahman Prawira - 1806186585
 
-## [My Log](TXT/mylog.txt) ## [Top 10 Rank List](TXT/myrank.txt) ## [My Public Key](TXT/mypubkey.txt) ## [Myscrip(dot)sh from cbkadal](TXT/myscript.sh) ##[SHA256SUM(dot)asc](TXT/SHA256SUM.asc) ## [SHA256SUM](TXT/SHA256SUM)
+## [My Log](TXT/mylog.txt) <br/>
+## [Top 10 Rank List](TXT/myrank.txt) <br/>
+## [My Public Key](TXT/mypubkey.txt) <br/>
+## [Myscrip(dot)sh from cbkadal](TXT/myscript.sh) <br/>
+## [SHA256SUM(dot)asc](TXT/SHA256SUM.asc) <br/>
+## [SHA256SUM](TXT/SHA256SUM)<br/>
 <br>
 <hr>
 <br>
