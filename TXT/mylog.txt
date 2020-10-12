@@ -33,3 +33,20 @@ ZCZC W02 10 L15 Assignment #5
 ZCZC W02 10 L16 Assignment #6
 ZCZC W02 10 L17 Assignment #8
 ZCZC W02 10 L12 Assignment #9
+ZCZC W03 100 L02 ZOOM related
+ZCZC W03 60 L03 Github Related
+ZCZC W03 30 L01 SCELE related
+ZCZC W03 20 L04 Github Page related
+ZCZC W03 60 L23 Discuss with friends
+ZCZC W03 120 L10 Assignment #1
+ZCZC W03 60 L11 Assignment #2
+ZCZC W03 15 L12 Assignment #3
+ZCZC W03 30 L13 Assignment #4
+ZCZC W03 60 L14 Assignment #5
+ZCZC W03 15 L15 Assignment #6
+ZCZC W03 30 L16 Assignment #7
+ZCZC W03 15 L17 Assignment #8
+ZCZC W03 15 L18 Assignment #9
+ZCZC W03 15 L19 Assignment #10
+ZCZC W03 240 L09 Asking Yoga (Lecturer Assistant)
+ZCZC W03 90 L05 GSGS
