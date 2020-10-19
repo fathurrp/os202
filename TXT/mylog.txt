@@ -50,3 +50,16 @@ ZCZC W03 15 L18 Assignment #9
 ZCZC W03 15 L19 Assignment #10
 ZCZC W03 240 L09 Asking Yoga (Lecturer Assistant)
 ZCZC W03 90 L05 GSGS
+ZCZC W04 120 L02 ZOOM Related
+ZCZC W04 90 L05 GSGS
+ZCZC W04 2 L12 Assignment #1
+ZCZC W04 10 L13 Assignment #2
+ZCZC W04 5 L15 Assignment #3
+ZCZC W04 8 L16 Assignment #4
+ZCZC W04 10 L17 Assignment #5
+ZCZC W04 30 L09 Asking Yoga (Lecturer Assistant)
+ZCZC W04 5 L18 Assignment #6
+ZCZC W04 60 L11 Assignment #7
+ZCZC W04 25 L05 GSGS related
+ZCZC W04 75 L14 Assignment #8
+ZCZC W04 4 L19 Assignment #9
