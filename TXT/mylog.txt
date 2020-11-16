@@ -63,6 +63,7 @@ ZCZC W04 60 L11 Assignment #7
 ZCZC W04 25 L05 GSGS related
 ZCZC W04 75 L14 Assignment #8
 ZCZC W04 4 L19 Assignment #9
+<<<<<<< HEAD
 ZCZC W06 120 L02 ZOOM related
 ZCZC W06 30 L03 Github Related
 ZCZC W06 60 L01 SCELE related
@@ -79,3 +80,18 @@ ZCZC W06 15 L17 Assignment #8
 ZCZC W06 30 L18 Assignment #9
 ZCZC W06 30 L19 Assignment #10
 ZCZC W06 30 L19 Assignment #11
+=======
+ZCZC W05 120 L02 ZOOM Related
+ZCZC W05 90 L05 GSGS
+ZCZC W05 2 L12 Assignment #1
+ZCZC W05 10 L13 Assignment #2
+ZCZC W05 5 L15 Assignment #3
+ZCZC W05 8 L16 Assignment #4
+ZCZC W05 10 L17 Assignment #5
+ZCZC W05 30 L23 Asking Friends
+ZCZC W05 5 L18 Assignment #6
+ZCZC W05 10 L11 Assignment #7
+ZCZC W05 90 L05 GSGS related
+ZCZC W05 10 L14 Assignment #8
+ZCZC W05 4 L19 Assignment #9
+>>>>>>> cabba8bc58e176c57775d57efb5d2a467dc743d5
