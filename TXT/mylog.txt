@@ -96,7 +96,7 @@ ZCZC W07 120 L02 ZOOM related
 ZCZC W07 30 L03 Github Related
 ZCZC W07 60 L01 SCELE related
 ZCZC W07 30 L04 Github Page related
-ZCZC W05 60 L23 Asking Friends
+ZCZC W07 60 L23 Asking Friends
 ZCZC W07 60 L05 GSGS
 ZCZC W07 15 L10 Assignment #1
 ZCZC W07 120 L11 Assignment #2
@@ -110,5 +110,24 @@ ZCZC W07 15 L18 Assignment #9
 ZCZC W07 30 L19 Assignment #10
 ZCZC W07 15 L20 Assignment #11
 ZCZC W07 30 L21 Assignment #12
-ZCZC W05 30 L23 Asking Friends
+ZCZC W07 30 L23 Asking Friends
 ZCZC W07 60 L05 GSGS
+ZCZC W08 120 L02 ZOOM related
+ZCZC W08 30 L03 Github Related
+ZCZC W08 60 L01 SCELE related
+ZCZC W08 30 L04 Github Page related
+ZCZC W08 60 L23 Asking Friends
+ZCZC W08 60 L05 GSGS
+ZCZC W08 15 L10 Assignment #1
+ZCZC W08 120 L11 Assignment #2
+ZCZC W08 15 L12 Assignment #3
+ZCZC W08 30 L13 Assignment #4
+ZCZC W08 60 L14 Assignment #5
+ZCZC W08 30 L15 Assignment #6
+ZCZC W08 15 L16 Assignment #7
+ZCZC W08 15 L17 Assignment #8
+ZCZC W08 15 L18 Assignment #9
+ZCZC W08 30 L19 Assignment #10
+ZCZC W08 15 L20 Assignment #11
+ZCZC W08 30 L23 Asking Friends
+ZCZC W08 60 L05 GSGS
